@@ -1,6 +1,5 @@
 # Advanced-Time-Series-Analysis-for-Weather-Forecasting-in-Hyderabad-s-Semi-Arid-Region
  This project develops a predictive model for agricultural weather in Hyderabad. It uses SARIMA to forecast temperature and rainfall. The model analyzes historical data and seasonal patterns. It aims to improve agricultural planning and water management
-# Developing a Deep Learning Model for Predicting Agricultural Weather Conditions and Crop Water Requirements in Hyderabad, India Using Time Series Data
 
 ***Keywords:*** Deep Learning, Time Series Data, Agricultural Weather Conditions, Crop Water Requirements, Hyderabad, India
 
